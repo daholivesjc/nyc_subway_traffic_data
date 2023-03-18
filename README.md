@@ -20,4 +20,11 @@
 - MATPLOTLIB
 - SEABORN
 
+### References used for the study:
+- https://medium.com/good-service/mapping-nyc-subway-ridership-through-the-pandemic-aed596a36c9e
+- https://medium.com/qri-io/taming-the-mtas-unruly-turnstile-data-c945f5f96ba0
+- https://www.subwayridership.nyc/
+- https://github.com/qri-io/data-stories-scripts/tree/master/nyc-turnstile-counts
+- https://toddwschneider.com/dashboards/nyc-subway-turnstiles/
+
 
