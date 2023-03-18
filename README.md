@@ -13,7 +13,7 @@
 - Model Evaluation
 
 ### Main Python Packages Used:
--JUPYTER
+- JUPYTER
 - PYSPARK
 - TENSORFLOW
 - SCIKIT-LEARN
