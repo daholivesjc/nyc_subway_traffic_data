@@ -12,4 +12,12 @@
 - Model Training
 - Model Evaluation
 
+### Main Python Packages Used:
+-JUPYTER
+- PYSPARK
+- TENSORFLOW
+- SCIKIT-LEARN
+- MATPLOTLIB
+- SEABORN
+
 
